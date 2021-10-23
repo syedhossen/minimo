@@ -35,6 +35,7 @@ body{
 /*Common Ends*/
 /*Header Starts*/
 header{
+	margin-top:38px;
 	}
 .wrapper{
 	margin: 0px auto;
