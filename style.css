@@ -74,6 +74,12 @@ header{
 	padding-right: 0px;
 }
 .menu ul li a:hover{
-color: #000000;
+	color: #000000;
 }
 /*Header Ends*/
+/*Banner Starts*/
+.banner img{
+	width: 100%;
+}
+
+/*Banner Ends*/
