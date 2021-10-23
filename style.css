@@ -73,5 +73,7 @@ header{
 .menu ul li:last-child a{
 	padding-right: 0px;
 }
-.menu ul li a:hover{}
+.menu ul li a:hover{
+color: #000000;
+}
 /*Header Ends*/
