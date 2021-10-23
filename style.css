@@ -35,7 +35,7 @@ body{
 /*Common Ends*/
 /*Header Starts*/
 header{
-	margin-top:38px;
+	margin-top: 75px;
 	}
 .wrapper{
 	margin: 0px auto;
@@ -79,7 +79,7 @@ header{
 }
 /*Header Ends*/
 /*Banner Starts*/
-.bannerimg{
+.banner img{
 	width: 100%;
 }
 
