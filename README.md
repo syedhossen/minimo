@@ -2,5 +2,5 @@
 https://syedhossen.github.io/minimo/
 
 
-revised
+exam
 
